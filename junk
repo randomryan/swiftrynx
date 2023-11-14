@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Define variables
-rarFile="your_rar_file.rar"  # Replace with the actual name of your RAR file
+rarFile="unlock.rar"  # Replace with the actual name of your RAR file
 password="Covid-19"
 gitRepo="https://github.com/SwiftRynx/swiftrynx.git"
 targetFolder="swiftrynx-master"
